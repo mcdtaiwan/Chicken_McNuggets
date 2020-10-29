@@ -1,3 +1,6 @@
+![](https://github.com/mcdtaiwan/Chicken-McNuggets/blob/main/%E9%BA%A5%E5%85%8B%E9%B7%84%E5%A1%8A%E9%AB%94.png)
+
+
 # 關於麥克鷄塊體
 
 你知道嗎？當麥克鷄塊與它的靈魂伴侶 — 糖醋醬相遇，  
