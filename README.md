@@ -12,7 +12,7 @@
 # Color Font 支援說明
 - 支援軟體和作業系統：
 Illustrator CC 2018 / Photoshop CC 2017 / InDesign CC 2019 / QuarkXPress 2018
-Pages(macOS) / Keynote(macOS)  / Sketch(macOS) / Outlook 365(Windows) / Paint.NET(Windows)
+Pages(macOS) / Keynote(macOS)  / Sketch(macOS) /  Paint.NET(Windows)
 
 - 支援瀏覽器：
 Chrome / Safari / Firefox (26+) / Microsoft Edge (38+, Win 10)
