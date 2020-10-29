@@ -1,4 +1,4 @@
-
+![](https://github.com/mcdtaiwan/Chicken_McNuggets/blob/main/ChickenMcNuggets_Demo.png)
 
 
 # 關於麥克鷄塊體
