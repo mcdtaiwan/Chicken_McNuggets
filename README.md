@@ -26,3 +26,11 @@
 4. 本字型未經准許禁止進行修改或販售。
 5. 對本字型的下載、安裝、與安裝後相關之問題，及可能導致之一切損害，和德昌股份有限公司皆不承擔相關責任。
 6. 和德昌股份有限公司不擔保字型內沒有錯誤，請自行確認文字之正確性。
+
+# Color Font 支援說明
+- 支援瀏覽器：
+Chrome / Safari / Firefox (26+) / Microsoft Edge (38+, Win 10)
+
+-支援軟體和作業系統：
+Illustrator CC 2018 / Photoshop CC 2017 / InDesign CC 2019 / QuarkXPress 2018
+Pages(macOS) / Keynote(macOS)  / Sketch(macOS) / Outlook 365(Windows) / Paint.NET(Windows) 
